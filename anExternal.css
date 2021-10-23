@@ -1,0 +1,17 @@
+body{
+
+}
+
+#img.pic{
+    float: right;   
+}
+p{
+
+}
+#p.last{
+    border-radius: 25px;
+    background: cadetblue;
+    padding: 20px;
+    width: 200px;
+    height: 150px;
+}
