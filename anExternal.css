@@ -1,17 +1,19 @@
 body{
-
+    background-color: lightblue;
 }
-
-#img.pic{
-    float: right;   
+#img1{
+    float: right;
 }
-p{
-
-}
-#p.last{
+#rcorners1 {
     border-radius: 25px;
-    background: cadetblue;
-    padding: 20px;
+    background: #73AD21;
+    padding: 20px; 
     width: 200px;
-    height: 150px;
-}
+    height: 150px;  
+  }
+
+
+
+
+
+
